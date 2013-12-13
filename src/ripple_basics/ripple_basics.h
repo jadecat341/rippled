@@ -83,6 +83,7 @@ using namespace beast;
 #include "containers/RangeSet.h"
 #include "containers/BlackList.h"
 #include "containers/TaggedCache.h"
+#include "containers/SyncUnorderedMap.h"
 
 }
 
